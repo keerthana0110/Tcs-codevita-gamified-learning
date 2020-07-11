@@ -1,4 +1,4 @@
-#Question No: 1
+//Question No: 1
 Coding Type Question
           Decode the logic and print the pattern that corresponds to the given input.
 
@@ -27,7 +27,7 @@ Output 2
 **50607014015016
 ****809012013
 ******10011
-#
+//
 
 
 import java.util.Scanner;
